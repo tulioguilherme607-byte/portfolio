@@ -23,27 +23,6 @@ Entender o ciclo completo de um software — do front-end ao banco de dados — 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-Abaixo estão as tecnologias que domino, estudo e aplico nos projetos presentes neste repositório:
-
-### **Front-end & Desenvolvimento Web**
-* HTML5 | CSS3 | JavaScript
-
-### **Bancos de Dados (SGBDs)**
-* MySQL | PostgreSQL | SQL Server | Oracle
-
-### **Linguagens de Programação & Backend**
-* Python | Java | PHP
-
-### **Plataformas, Low-Code & Supabase**
-* Supabase | ScriptCase
-
-### **Integrações & Inteligência Artificial**
-* Consumo e Criação de APIs REST | Ferramentas de IA (ChatGPT, Claude AI)
-
----
-
 ## 📂 Projetos Pessoais & Experiências
 
 Neste repositório, você encontrará uma estrutura dedicada a registrar meu progresso técnico:
