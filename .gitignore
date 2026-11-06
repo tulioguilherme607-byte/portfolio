@@ -1,0 +1,21 @@
+
+# Ambientes virtuais do Python
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Configurações das IDEs JetBrains
+.idea/
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
